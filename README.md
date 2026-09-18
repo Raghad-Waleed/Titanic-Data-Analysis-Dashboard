@@ -72,11 +72,7 @@ Make sure you have **Python 3.10+** and **Git** installed on your system.
     ```Bash
     python -m streamlit run app.py
     ```
-    or
     
-    ```Bash
-    streamlit run app.py
-    ```
 5. **Access the Dashboard:**
 
       Open your browser and navigate to `http://localhost:8501`
