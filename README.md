@@ -25,6 +25,14 @@ An interactive web dashboard built with **Python**, **Streamlit**, **Pandas**, a
   6. **Feature Correlation / Heatmap:** Visualizing relationships between numerical variables.
 
 ---
+## 📸 Dashboard Screenshots
+
+**1. Overview & KPIs**
+![Dashboard Top](images/dashboard-top.png)
+
+**2. Detailed Analytics**
+![Dashboard Bottom](images/dashboard-bottom.png)
+---
 
 ## Tech Stack
 
